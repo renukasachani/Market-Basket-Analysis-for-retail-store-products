@@ -1,4 +1,6 @@
-# Masters-Thesis-Market-Basket-Analysis-for-retail-store-products
+# Masters-Thesis
+
+Market-Basket-Analysis-for-retail-store-products
 
  ‘Market basket analysis’ is a well-known data mining method used for finding the relations among various products 
  in the customers' shopping cart. The primary aim of this research thesis is to observe the important factors that 
